@@ -14,7 +14,7 @@ Aplikasi Flutter yang mendemonstrasikan implementasi layout dan navigasi dengan 
 
 ### 1. Basic Layout Implementation
 ![Basic Layout](images/1.jpeg)
-**Implementasi layout dasar dengan AppBar sederhana dan struktur widget fundamental Flutter.**
+**Implementasi layout dasar dengan AppBar sederhana dan struktur widget fundamental Flutter serta gambar.**
 
 ### 2. Title Section Development
 ![Title Section](images/2.jpeg)
@@ -25,16 +25,16 @@ Aplikasi Flutter yang mendemonstrasikan implementasi layout dan navigasi dengan 
 **Pembuatan section tombol dengan tiga action buttons (CALL, ROUTE, SHARE) menggunakan method _buildButtonColumn yang reusable.**
 
 ### 4. Text Section Integration
-![Text Section](images/4.jpeg)
-**Integrasi text section dengan Container, padding, dan softWrap untuk menampilkan deskripsi lengkap destinasi wisata.**
+![Expand Section](images/4.jpeg)
+**Integrasi text section dengan Container expand, padding, dan softWrap untuk menampilkan deskripsi lengkap destinasi wisata.**
 
 ### 5. Layout Enhancement
-![Layout Enhancement](images/5.jpeg)
-**Penyempurnaan layout dengan perbaikan spacing, alignment, dan visual hierarchy untuk user experience yang lebih baik.**
+![Layout Padding Enhancement](images/5.jpeg)
+**Penyempurnaan layout dengan perbaikan padding untuk user experience yang lebih baik.**
 
 ### 6. Styling & Theming
-![Styling](images/6.jpeg)
-**Penerapan styling dan theming dengan color scheme yang konsisten, typography yang readable, dan visual elements yang menarik.**
+![Column](images/6.jpeg)
+**Penerapan column dan theming dengan color scheme yang konsisten, typography yang readable, dan visual elements yang menarik.**
 
 ### 7. Image Integration
 ![Image Integration](images/7.jpeg)
@@ -45,8 +45,8 @@ Aplikasi Flutter yang mendemonstrasikan implementasi layout dan navigasi dengan 
 **Implementasi modern UI dengan Material 3 design system, card-based layout, shadows, dan rounded corners untuk tampilan yang lebih profesional.**
 
 ### 9. Final Application
-![Final App](images/9.jpeg)
-**Hasil akhir aplikasi dengan semua fitur terintegrasi, scrollable layout, dan design yang responsive serta user-friendly.**
+![Listview](images/9.png)
+**Hasil akhir aplikasi dengan scrollable layout, dan design yang responsive serta user-friendly.**
 
 ## ✨ Fitur Utama
 
